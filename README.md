@@ -6,4 +6,4 @@
   - Prompt Optimization for LLMs (GPT, Mistral)  
   - AI Tools That Spark Joy ✨  
 • Tech Stack: Python, LangChain, OpenAI, HuggingFace  
-🔗 Connect: [Your Links]  
+🔗 Connect: mail@sudeepregmi.com.np
